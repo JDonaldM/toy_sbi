@@ -1,2 +1,2 @@
 # toy_sbi
-Some to experiments with simulation based inference techniques.
+Some toy experiments with simulation based inference techniques.
